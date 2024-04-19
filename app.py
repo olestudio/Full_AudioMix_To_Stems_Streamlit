@@ -98,8 +98,8 @@ def main():
             else:
                 st.error(f"The directory {specific_directory} does not exist.")
 
-            delete_files_in_directory('temp')
-            delete_files_in_directory('separated/mdx_extra')
+            #delete_files_in_directory('temp')
+            #delete_files_in_directory('separated/mdx_extra')
 
 
 if __name__ == "__main__":
