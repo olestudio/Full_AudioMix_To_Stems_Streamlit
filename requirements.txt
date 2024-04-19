@@ -1,0 +1,6 @@
+streamlit
+emucs
+random
+shutil 
+torch
+numpy
