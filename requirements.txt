@@ -1,5 +1,5 @@
 streamlit
-emucs
+demucs
 random
 shutil 
 torch
